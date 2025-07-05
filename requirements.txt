@@ -1,0 +1,5 @@
+paddlepaddle==3.0.0         # 安装时请根据是否有 GPU 选择对应版本
+paddlenlp==2.8.1
+numpy>=1.19
+gradio>=4.0.0
+torch>=1.10.0               # （可选，部分说明中误写）
